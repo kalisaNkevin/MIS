@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7Zlax9n0xLDwg29gB1E4JftxzX5r7q9sEN8LX+kEYfydR/muH8J7RnsBYB44LG5QelTvzbRat4cXK+FD8YrqQ==",
+  "success": true,
+  "projectFilePath": "/Users/kevin/docker-dotnet-sample/src/myWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevin/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/kevin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.29/microsoft.netcore.app.host.osx-arm64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
