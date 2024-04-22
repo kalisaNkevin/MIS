@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("umsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ccdfe62cfb343c2b9acc28484539181ad743b2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("umsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("umsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

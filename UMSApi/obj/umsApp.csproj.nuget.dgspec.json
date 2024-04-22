@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kalisangabokevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj": {}
+    "/Users/kevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj": {}
   },
   "projects": {
-    "/Users/kalisangabokevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj": {
+    "/Users/kevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kalisangabokevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj",
+        "projectUniqueName": "/Users/kevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj",
         "projectName": "umsApp",
-        "projectPath": "/Users/kalisangabokevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj",
-        "packagesPath": "/Users/kalisangabokevin/.nuget/packages/",
-        "outputPath": "/Users/kalisangabokevin/Documents/GitHub/MIS/UMSApi/obj/",
+        "projectPath": "/Users/kevin/Documents/GitHub/MIS/UMSApi/umsApp.csproj",
+        "packagesPath": "/Users/kevin/.nuget/packages/",
+        "outputPath": "/Users/kevin/Documents/GitHub/MIS/UMSApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kalisangabokevin/.nuget/NuGet/NuGet.Config"
+          "/Users/kevin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -62,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
